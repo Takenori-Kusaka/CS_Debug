@@ -1,0 +1,15 @@
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\bin\Debug\net7.0\csdebug.exe
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\bin\Debug\net7.0\csdebug.deps.json
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\bin\Debug\net7.0\csdebug.runtimeconfig.json
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\bin\Debug\net7.0\csdebug.dll
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\bin\Debug\net7.0\csdebug.pdb
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.csproj.AssemblyReference.cache
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.AssemblyInfoInputs.cache
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.AssemblyInfo.cs
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.csproj.CoreCompileInputs.cache
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.dll
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\refint\csdebug.dll
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.pdb
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\csdebug.genruntimeconfig.cache
+C:\Users\kokor\OneDrive\Document\GitHub\CS_Debug\obj\Debug\net7.0\ref\csdebug.dll
